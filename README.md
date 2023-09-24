@@ -1,4 +1,4 @@
-# GDSC ITB 2022/2023 - Final Project Submission
+# GDSC ITB 2022/2023 - Final Project
 ---
 **Author's Details**
 
